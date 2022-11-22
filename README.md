@@ -12,8 +12,6 @@ Contact Only for Serious Business, clowns Stay Away.
 
 ## Telegram Bulk Personal Message Sender
 
-## Telegram Group Shilling Bot
-
 ![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitbnWOmtTJegdbwMGJUehvHnjKcSaWAyl7WKl8CFW3vGVKiPyrARdhA0FC2k60kl0tVAXu5Y1rak3L7M-ADb5UiEeL0DrYIMM_60IbVlA9cspz44Ou00vpF0HmTUxUNAgcKdJVTiqjcNsS-x-QkUaV-kczcekCTJ8T6_hps7EPqwPLk1y4mfjpZL8dzA/s591/Telegram%20Dm%20sender%20software.jpg)
 
 - Software Name : DM Sender
